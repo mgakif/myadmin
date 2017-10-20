@@ -44,7 +44,7 @@ class ExceptionHandler
     }
 
     /**
-     * Registers the exception handler.
+     * Registers the exception handler...
      *
      * @param bool        $debug          Enable/disable debug mode, where the stack trace is displayed
      * @param string|null $charset        The charset used by exception messages
